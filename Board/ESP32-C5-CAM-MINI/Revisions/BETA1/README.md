@@ -2,7 +2,7 @@
 
 ## General Information
 
-This development board is the first revision of the ESP32-C5-CAM-MINI series.
+This development board is the first revision of the ESP32-C5-CAM-MINI series. This board revision was made by EasyEDA.
 
 ### Features
 
