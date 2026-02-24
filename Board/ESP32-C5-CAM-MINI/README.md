@@ -4,7 +4,7 @@
 
 This contains the ESP32-C5-CAM-MINI, a compact form factor development board suitable for space constraint applications.
 
-#### Latest Board Revision: ESP32-C5-CAM-BETA1
+#### Latest Board Revision: ESP32-C5-CAM-MINI-BETA1
 
 ## Notes
 
