@@ -4,6 +4,10 @@
 
 This development board is the first revision of the ESP32-C5-CAM-MINI series. This board revision was made by EasyEDA.
 
+## Board Preview
+
+![alt text](/Board/ESP32-C5-CAM-MINI/Revisions/BETA1/ESP32-C5-CAM-MINI-BETA1-PCB_SampleImage_3D.png "esp32-c5-cam-mini-beta1")
+
 ### Features
 
 - 2x 1x9 pin header (2.54mm) for GPIO.
