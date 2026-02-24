@@ -7,7 +7,7 @@ This development board is the first revision of the ESP32-C5-CAM series. This bo
 
 ## Board Preview
 
-![alt text](/Board/ESP32-C5-CAM-DEVKIT/Revisions/BETA1/ESP32-C5-CAM-DEVKIT-BETA1-PCB_SampleImage_3D.png "ESP32-C5-CAM-DEVKIT-BETA1")
+![alt text](/Board/ESP32-C5-CAM/Revisions/BETA1/ESP32-C5-CAM-BETA1-PCB_SampleImage_3D.png "ESP32-C5-CAM-BETA1")
 
 ### Features
 
